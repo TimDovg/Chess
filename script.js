@@ -32,7 +32,6 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
   let letters = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H'];
 
   body.appendChild(game);
-  document.getElementsByTagName('title').innerText = 'Chess game';
   desk();
 
   function desk() {
